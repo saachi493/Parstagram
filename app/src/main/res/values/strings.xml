@@ -5,10 +5,11 @@
     <string name="enter_username">Enter Username</string>
 
 
-
     <string name="back4app_server_url">https://parseapi.back4app.com/</string>
 
     <!-- Change BOTH strings as required -->
     <string name="back4app_app_id">8p1KHbhu7mT4LxyAFG5Fv291oWpVEyruPbH8fdEN</string>
     <string name="back4app_client_key">LaXV1kA76okfFojmqfRZqSUhtYNpam6UuR6z4KhG</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
