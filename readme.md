@@ -1,3 +1,5 @@
+Project as part of Code Path Sessions
+
 # Project 3 - Parstagram - Part II
 
 Parstagram is a photo sharing app similar to Instagram but using Parse as its backend.
